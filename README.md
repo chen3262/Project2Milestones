@@ -1,7 +1,7 @@
 # Project2Milestones
 Projecting Molecular Dynamics trajectories into cells between milestones. Accelerated by MPI using mpi4py.
 
-<img src ="https://github.com/chen3262/Project2Milestones/master/demo.png" width="600">
+<img src ="https://github.com/chen3262/Project2Milestones/blob/master/demo.png" width="600">
 
 ## Requirements
 python modules: ```numpy```, ```pytraj```, ```matplotlib```, ```mpi4py```
